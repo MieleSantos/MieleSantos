@@ -44,8 +44,10 @@ Here are some ideas to get you started:
  - Data Science
  - Docker
  - Django
+ - FastApi
  - Postgresql
  - Spacy(NLP)
+ - Devops Cloud
  </div>
  
 ## 📫 Contatos:
