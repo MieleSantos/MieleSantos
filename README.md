@@ -48,6 +48,7 @@ Here are some ideas to get you started:
  - Postgresql
  - Spacy(NLP)
  - Devops Cloud
+ - ElasticSearch
  </div>
  
 ## 📫 Contatos:
