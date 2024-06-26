@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 ## Estatísticas
  <div>
   <a href="https://github.com/MieleSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MieleSantos&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MieleSantos&layout=compact&langs_count=7&theme=white"/>
+  
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MieleSantos&count_private=true&show_icons=true&theme=dark)](https://github.com/MieleSantos/github-readme-stats)<br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MieleSantos&layout=donut&theme=dark)](https://github.com/MieleSantos/github-readme-stats)
 </div>
  
 ## Principais Skills
