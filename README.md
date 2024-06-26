@@ -53,18 +53,6 @@ Here are some ideas to get you started:
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MieleSantos&layout=donut&theme=dark)](https://github.com/MieleSantos/github-readme-stats)
 </div>
  
-## Principais Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="60" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Flask" height="30" width="60" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="Flask" height="30" width="60" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  <img align="center" alt="Flask" height="30" width="80" src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch">
-  <img align="center" alt="MongoBd" height="30" width="70" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img align="center" alt="MongoBd" height="30" width="70" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-  <img align="center" alt="GitHub" height="30" width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
- 
  
 ## 📫 Contatos:
 <div> 
