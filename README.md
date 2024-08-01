@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   - Postgresql <br>
   - Devops Cloud <br>
   - ElasticSearch <br>
+  - AWS
  </div>
  
 ## Estatísticas
