@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <div>
   - Docker <br>
   - FastApi <br>
+  - Django <br>
   - Postgresql <br>
   - Devops Cloud <br>
-  - ElasticSearch <br>
-  - AWS
+  - Cloud AWS
  </div>
  
 ## Estatísticas
