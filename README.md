@@ -38,6 +38,7 @@ Here are some ideas to get you started:
  
 ## Estudando
 <div>
+  - IA Generativa/Langchain
   - Docker <br>
   - FastApi <br>
   - Django <br>
