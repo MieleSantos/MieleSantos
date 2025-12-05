@@ -6,7 +6,7 @@
 Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, APIs REST, sistemas de classificação e processamento de dados, sendo responsável pela criação de chatbots inteligentes, APIs robustas, sistemas de classificação de dados e construção de bases de dados estruturadas.Especializando em criação de soluções inteligentes com IA
 
 - 🔭 **Atualmente trabalhando:** Back-end Python Pleno
-- 🌱 **Estudando:** IA Generativa/Langchain, Docker, FastAPI, Django, PostgreSQL, DevOps Cloud, Cloud AWS
+- 🌱 **Estudando:** Cursando MBA em Engenharia de Software com IA
 - 😄 **Pronome:** Ele/Dele
 - 📍 **Localização:** São Paulo, SP
 - 💼 **LinkedIn:** [mielesilva](https://www.linkedin.com/in/mielesilva/)
