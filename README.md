@@ -1,14 +1,14 @@
-## Olá, sou Miele Silva 👋
-
+# ## Olá, sou Miele Silva 👋
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, APIs REST, sistemas de classificação e processamento de dados, sendo responsável pela criação de chatbots inteligentes, APIs robustas, sistemas de classificação de dados e construção de bases de dados estruturadas. Especializando em criação de soluções inteligentes com IA
+Desenvolvedor back-end Python com experiência em chatbots, APIs REST, classificação de textos e processamento de dados. Atualmente cursando MBA em Engenharia de Software com IA, com foco em construir soluções inteligentes para cenários reais.
 
 - 🔭 **Atualmente trabalhando:** Back-end Python Pleno
-- 🌱 **Estudando:** Cursando MBA em Engenharia de Software com IA
+- 🌱 **Estudando:** MBA em Engenharia de Software com IA
 - 📍 **Localização:** São Paulo, SP
 - 💼 **LinkedIn:** [mielesilva](https://www.linkedin.com/in/mielesilva/)
+- 📦 **GitHub:** [@MieleSantos](https://github.com/MieleSantos) (93 repositórios | 44 stars)
 
 ---
 
@@ -22,12 +22,14 @@ Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, A
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **IA & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5B5BD6?style=for-the-badge&logo=ai&logoColor=white)
 
 #### **Bancos de Dados**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,38 +51,37 @@ Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, A
 ### 🚀 Projetos em Destaque
 
 #### 🤖 **Chatbots & IA**
-- **[zapbot](https://github.com/MieleSantos/zapbot)** - Bot com zapIA Master
+- **[zapbot](https://github.com/MieleSantos/zapbot)** - Bot com IA para WhatsApp
 - **[chatbot-langgraph](https://github.com/MieleSantos/chatbot-langgraph)** - Chatbot com LangGraph
-- **[assistente_financeiro](https://github.com/MieleSantos/assistente_financeiro)** - Assistente financeiro usando LangChain
+- **[rag_chatbot](https://github.com/MieleSantos/rag_chatbot)** - Chatbot com RAG (Retrieval-Augmented Generation)
 - **[agente_financeiro](https://github.com/MieleSantos/agente_financeiro)** - Agente financeiro inteligente
 - **[agente_estoque](https://github.com/MieleSantos/agente_estoque)** - Agente de estoque com IA
-- **[agent_sql](https://github.com/MieleSantos/agent_sql)** - Agente usando LangChain para SQL
-- **[estudando_rag](https://github.com/MieleSantos/estudando_rag)** - RAG (Retrieval-Augmented Generation)
+- **[assistente_financeiro_django](https://github.com/MieleSantos/assistente_financeiro_django)** - Assistente financeiro com Django
 
 #### 🔌 **APIs & Backend**
-- **[tutorial-api-python](https://github.com/MieleSantos/tutorial-api-python)** - Construindo APIs robustas com Python
-- **[por_onde_andei_tutorial](https://github.com/MieleSantos/por_onde_andei_tutorial)** - API protegida com Flask
-- **[read_api_network](https://github.com/MieleSantos/read_api_network)** - Processo seletivo Stract
-- **[quickstart_api_openai](https://github.com/MieleSantos/quickstart_api_openai)** - Estudando API do ChatGPT
+- **[api_email](https://github.com/MieleSantos/api_email)** - API para estudos com Celery
+- **[read_api_network](https://github.com/MieleSantos/read_api_network)** - Desafio técnico de processo seletivo
+- **[quickstart_api_openai](https://github.com/MieleSantos/quickstart_api_openai)** - Integração com API da OpenAI
+- **[agent_sql](https://github.com/MieleSantos/agent_sql)** - Agente com LangChain para SQL
 
 #### 📊 **Data Science & Processamento**
-- **[bootcamp_ds](https://github.com/MieleSantos/bootcamp_ds)** - Projeto Bootcamp Data Science - Human Resource Analytics
-- **[analise_dados_python_pandas](https://github.com/MieleSantos/analise_dados_python_pandas)** - Análise de dados com Pandas
+- **[classificador_texto_Twitter](https://github.com/MieleSantos/classificador_texto_Twitter)** - NLP para classificação de textos
 - **[classificador_noticias](https://github.com/MieleSantos/classificador_noticias)** - Classificador de notícias
 - **[Reconhecimento_entidade_nomeada](https://github.com/MieleSantos/Reconhecimento_entidade_nomeada)** - NER (Named Entity Recognition)
-- **[Prev_diabete](https://github.com/MieleSantos/Prev_diabete)** - Previsão de diabetes
+- **[transcricao_video_ia](https://github.com/MieleSantos/transcricao_video_ia)** - Transcrição e compreensão de vídeos
+- **[graficos_interativos_python](https://github.com/MieleSantos/graficos_interativos_python)** - Visualização de dados com Python
 
 #### ☁️ **Cloud & Big Data**
-- **[desafio_AWS_bigdata](https://github.com/MieleSantos/desafio_AWS_bigdata)** - Ecossistema de Big Data na Nuvem AWS
+- **[website_static_aws_s3](https://github.com/MieleSantos/website_static_aws_s3)** - Deploy de site estático na AWS
 - **[fundamentos_etl_python](https://github.com/MieleSantos/fundamentos_etl_python)** - Fundamentos de ETL com Python
-- **[pipeline_gen_ia](https://github.com/MieleSantos/pipeline_gen_ia)** - Pipeline de IA
 - **[pipeline_process_processo](https://github.com/MieleSantos/pipeline_process_processo)** - Pipeline de processamento
+- **[mba-ia-desafio-ingestao-busca](https://github.com/MieleSantos/mba-ia-desafio-ingestao-busca)** - Desafio MBA de ingestão e busca
 
 #### 🎓 **Estudos & Tutoriais**
-- **[principios-solid](https://github.com/MieleSantos/principios-solid)** - Exemplos de Princípios SOLID em Python
-- **[tdd_python](https://github.com/MieleSantos/tdd_python)** - Python e TDD: explorando testes unitários
-- **[transcricao_video_ia](https://github.com/MieleSantos/transcricao_video_ia)** - Transcrição e compreensão de vídeos
-- **[sumarizacao_texto](https://github.com/MieleSantos/sumarizacao_texto)** - Sumarização de texto
+- **[principios-solid](https://github.com/MieleSantos/principios-solid)** - Princípios SOLID em Python
+- **[pattern_chain](https://github.com/MieleSantos/pattern_chain)** - Prompt Template e Sequential Chain com LangChain
+- **[udemy_ia](https://github.com/MieleSantos/udemy_ia)** - Estudos práticos de IA
+- **[tradutor](https://github.com/MieleSantos/tradutor)** - Projeto de IA generativa
 
 ---
 
@@ -88,16 +89,20 @@ Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, A
 
 <!-- <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MieleSantos&theme=dracula&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-  
-</div> -->
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MieleSantos&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MieleSantos&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MieleSantos&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+   -->
+<!-- </div> --> 
+
+<div align="center">
+  
+  ![GitHub Stats Mirror](https://github-readme-stats-sigma-five.vercel.app/api?username=MieleSantos&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+  
+  ![Top Langs Mirror](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MieleSantos&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=58A6FF)
   
 </div>
+
 ---
 
 ### 🏆 Conquistas
@@ -133,4 +138,3 @@ Desenvolvedor back-end Python com experiência em desenvolvimento de Chatbots, A
   ⭐️ From [MieleSantos](https://github.com/MieleSantos)
   
 </div>
-
